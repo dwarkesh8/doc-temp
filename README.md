@@ -1,4 +1,4 @@
-Welcome Huobi ECO Chain Docs Site。
+Welcome Etherauthority Docs Site。
 
 Resources list：
 
@@ -7,4 +7,4 @@ Resources list：
 ### Tech Support And Help
 
 find us via suppport emmail, or social media.
-<DevContacts@huobi.com>
+<contact@etherauthority.io>
